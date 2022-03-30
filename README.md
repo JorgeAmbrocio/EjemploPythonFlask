@@ -29,7 +29,9 @@ CRUD API REST con Python Flask y MySql
   - python -m flask run
 
 # Códigos de respuesta http
-![Códigos de respuesta http](https://restfulapi.net/http-status-codes/)
+### [Códigos de respuesta http](https://restfulapi.net/http-status-codes/)
 
 # Tutorial digital ocean 
-![Tutorial digital ocean para python flask con entornos](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3-es)
+### [Tutorial digital ocean para python flask con entornos](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3-es)
+
+# Preguntas y respuestas
