@@ -19,9 +19,17 @@ CRUD API REST con Python Flask y MySql
   - python -m pip freeze > requeriments.txt
 - Instalar dependencias desde archivo requirements
   - python -m pip install -r requirements.txt
+## Mysql
+- Instalar mysql
+  - python -m pip install mysql-connector-python
 ## Flask
 - Instalar flask
   - python -m pip install flask
 - Ejecutar entorno flask
   - python -m flask run
-- Set variables de la apliación
+
+# Códigos de respuesta http
+![Códigos de respuesta http](https://restfulapi.net/http-status-codes/)
+
+# Tutorial digital ocean 
+![Tutorial digital ocean para python flask con entornos](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3-es)
