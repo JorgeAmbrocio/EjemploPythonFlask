@@ -25,6 +25,7 @@ CRUD API REST con Python Flask y MySql
 ## Flask
 - Instalar flask
   - python -m pip install flask
+  - python -m pip install Flask-Cors
 - Ejecutar entorno flask
   - python -m flask run
 

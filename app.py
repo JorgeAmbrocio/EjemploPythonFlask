@@ -3,8 +3,10 @@ import json
 from flask import Flask, jsonify, make_response, request
 import flask
 from controllers import estudiantecontroller
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Ruta para validar el funcionamiento del servidor
 @app.route('/',methods=['GET'])
